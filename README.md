@@ -17,8 +17,11 @@ Graph Challenge is a cutting-edge Android application designed to seamlessly loa
 ### TODO
 - Repository pattern
 
+### Artifactory
+Download the apk file [here](/results/app.apk). 
+
 ## Author
-Roque Buarque Junior (follow me on [LinkedIn]([https://twitter.com/roquebuarque](https://www.linkedin.com/in/roque-buarque-junior-b33aa966/)))
+Roque Buarque Junior  (follow me on [LinkedIn](https://twitter.com/roquebuarque](https://www.linkedin.com/in/roque-buarque-junior-b33aa966/))
 
 ## License
 ```
